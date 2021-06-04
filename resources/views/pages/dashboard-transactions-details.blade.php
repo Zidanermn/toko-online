@@ -65,7 +65,7 @@
                                 </div>
                               </div>
                               <div class="col-12 col-md-6">
-                                <div class="product-title">Mobele</div>
+                                <div class="product-title">Mobile</div>
                                 <div class="product-subtitle">
                                   {{ $transaction->transaction->user->phone_number }}
                                 </div>
